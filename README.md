@@ -8,7 +8,7 @@
    2. Tailwindcss
    3. Vite
 
-**🔗 Demo:** [Sunnyside agency website](https://cdn-team-memory-match-game.netlify.app/)
+**🔗 Demo:** [Sunnyside agency website](https://awizp-react-sunnyside-website.netlify.app/)
 
 ---
 
